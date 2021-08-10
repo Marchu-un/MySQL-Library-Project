@@ -2,7 +2,7 @@
 Library management project with a few SQL queries. Such as Most Popular Author and Most Malicious Reader
 
 ## MySQLibrary
-Contains inside the code for the whole database + tables+ data
+Contains inside the code for the whole database+ tables+ data+ queries
 
 ## data
 Only the data
