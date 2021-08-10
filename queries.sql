@@ -10,7 +10,6 @@ ORDER BY COUNT(`readers_list`.author_id) DESC
 ;
 
 ### Выведем самого популярного автора за последний год и количество его книг, взятых из библиотеки 
-#так как библиотека вышла закрылась, за последний год никто книги не брал
 SELECT 
 	`authors`.name AS 'Most Popular Author',
     COUNT(`readers_list`.author_id) AS 'Books Taken'
