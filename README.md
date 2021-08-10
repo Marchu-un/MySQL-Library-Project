@@ -4,11 +4,11 @@ Library management project with a few SQL queries. Such as Most Popular Author a
 ## MySQLibrary.sql
 Contains inside the code for the whole database + tables+ data
 
-## data.sql
+## data
 Only the data
 
-## Setup.sql
+## setup
 Contains inside the code for creating database and tables
 
-## Queries
+## queries
 Inside the code for querying database for Most Maliciour Reader and Most Popular Author (for the past year)
